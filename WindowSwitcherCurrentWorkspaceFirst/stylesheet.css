@@ -1,0 +1,11 @@
+
+.label-app-current
+{
+    font-weight: bold;
+}
+
+.label-app-other
+{
+    color: #c0c0c0;
+    font-style: italic;
+}
