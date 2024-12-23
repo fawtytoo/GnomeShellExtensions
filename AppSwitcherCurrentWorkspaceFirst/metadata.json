@@ -1,0 +1,21 @@
+{
+  "uuid": "app-switcher_current_workspace_first@fawtytoo",
+  "name": "App-Switcher Current Workspace First",
+  "description": "App-Switcher modification that sorts applications by current workspace first. It separates apps into 2 separate icons if the app also has windows on other workspaces.\n\nNOTE: The App Switcher is invoked by a keyboard shortcut which you can set in Gnome Settings > Navigation > Switch applications",
+  "shell-version": [
+    "3.22",
+    "3.24",
+    "3.26",
+    "3.28",
+    "3.30",
+    "3.34",
+    "3.32",
+    "3.36",
+    "3.38",
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+  "url": "https://github.com/fawtytoo/GnomeShellExtensions"
+}
