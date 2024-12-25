@@ -1,0 +1,21 @@
+{
+  "uuid": "show_applications_instead_of_overview@fawtytoo",
+  "name": "Show Applications Instead Of Workspaces",
+  "description": "The Overview will show Applications instead of Workspaces when invoked.",
+  "shell-version": [
+    "3.22",
+    "3.24",
+    "3.26",
+    "3.28",
+    "3.30",
+    "3.34",
+    "3.32",
+    "3.36",
+    "3.38",
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+  "url": "https://github.com/fawtytoo/GnomeShellExtensions"
+}
