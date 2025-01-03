@@ -23,7 +23,7 @@ function overviewToggle()
 
 export default class ShowApplicationsInsteadOfWorkspaces
 {
-    init()
+    constructor()
     {
         oldOverview = Overview.Overview.prototype['toggle'];
     }
